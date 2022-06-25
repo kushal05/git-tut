@@ -1,3 +1,3 @@
 first file
 modified by someone
-local
+remote
